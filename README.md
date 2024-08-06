@@ -1,1 +1,1 @@
-University project of implementing Backgammon game, written in c++, without using stl
+## University project of implementing Backgammon game, written in c++, without using stl
